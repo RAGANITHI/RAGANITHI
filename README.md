@@ -6,8 +6,8 @@
 bgragavendiran@gmail.com
 +91 8778002472
 
-I code for fun and Living. 
-I love automating things I am good in automating stuff with python.
+I code for. 
+I love automating things with python ping me if you need a hand or a collaborator for something cool.
 
 <!---
 RAGANITHI/RAGANITHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
