@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAGAVENDIRAN
 - 👀 I’m interested in Mobile Application Development with Kt and Java, Python. 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate for Hackathons, Mobile Application Development projects, Open source projects and Social Service projects
+- 💞️ I’m looking to collaborate for Hackathons, Mobile Application Development projects, Open source projects and Social projects
 - 📫 How to reach me 
 bgragavendiran@gmail.com
 +91 8778002472
