@@ -6,7 +6,7 @@
 bgragavendiran@gmail.com
 +91 8778002472
 
-I code for. 
+I code for a living. 
 I love automating things with python ping me if you need a hand or a collaborator for something cool.
 
 <!---
